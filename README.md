@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lightkeeper1874
-- 👀 I’m interested in all things ChatGPT
+- 👀 I’m interested in all things ChatGPT & python
 - 🌱 I’m currently learning something new every day. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...jesmith@alumni.flagler.edu
